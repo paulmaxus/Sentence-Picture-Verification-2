@@ -2,6 +2,10 @@ function [resMat,relpos,altpos] = runSingleTrial(scr, const, expDes, my_key, t)
 % ----------------------------------------------------------------------
 % runs a single trial and outputs the results in resMat (key, RT)
 % ----------------------------------------------------------------------
+% Function created by Martin SZINTE (martin.szinte@gmail.com)
+% Project : Yeshurun98
+% Edited by Maximillian Paulus
+% ----------------------------------------------------------------------
 
 %% Retrieve trigger codes for this trial
 data_outS = expDes.expMat(t,7);

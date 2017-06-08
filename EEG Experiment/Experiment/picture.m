@@ -2,6 +2,10 @@ function [relpos, altpos]=picture(scr, const, expDes, t)
 % ---------------------------------------------------------------------------------
 % Creates the picture which is then displayed afterwards
 % ---------------------------------------------------------------------------------
+% Function created by Martin SZINTE (martin.szinte@gmail.com)
+% Project : Yeshurun98
+% Edited by Maximillian Paulus
+% ----------------------------------------------------------------------
 
 %% Check variables to define shape, color and position
 
